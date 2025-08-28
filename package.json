@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "@elizaos/cli": "latest",
-    "@elizaos/core": "file: ../eliza/packages/core",
+    "@elizaos/core": "file:../eliza/packages/core",
     "@elizaos/plugin-anthropic": "^1.0.6",
     "@elizaos/plugin-bootstrap": "latest",
     "@elizaos/plugin-openai": "^1.0.11",
