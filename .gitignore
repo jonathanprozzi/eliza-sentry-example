@@ -1,0 +1,21 @@
+dist/
+node_modules/
+.eliza
+.elizadb
+
+.env*
+!.env.example
+
+prd.md
+
+# Claude local settings
+.claude/settings.local.json
+
+# XMTP local database files
+xmtp-*.db3
+xmtp-*.db3-shm
+xmtp-*.db3-wal
+.xmtp/
+
+# Tmux logs
+tmux-*.log
