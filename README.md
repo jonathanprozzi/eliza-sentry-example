@@ -1,6 +1,8 @@
 # Project Starter
 
-This is the starter template for ElizaOS projects.
+This is the starter template for ElizaOS projects. This starter already has support for Sentry configured and is meant to be used as a test/starter project for Sentry implementation. The `.env.example` file contains the necessary environment variables for Sentry and the OpenAI/Anthropic plugins.
+
+Adding these environment variables to the `.env` file will surface traces from AI interactions.
 
 ## Features
 
