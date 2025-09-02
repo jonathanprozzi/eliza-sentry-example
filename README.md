@@ -4,6 +4,8 @@ This is the starter template for ElizaOS projects. This starter already has supp
 
 Adding these environment variables to the `.env` file will surface traces from AI interactions.
 
+**NOTE:** The `package.json` is configured to use a _local_ version of the ElizaOS `core` package for testing! If you're using this as an Eliza starter and not to test the Eliza PR for adding Sentry support, please ensure you change this to the official ElizaOS `core` package. This is currently set up for testing the package locally!
+
 ## Features
 
 - Pre-configured project structure for ElizaOS development
